@@ -469,15 +469,20 @@ height: 36px;
     color: white;
 }
 
-.footer__contact--img{
-    background-color: ;
-    border-radius: 60%;
-    width: 24px;
-    height: 24px;
-}
 
 .footer__contact{
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+.footer__contact--links{
+    background-color: white;
+    color: black;
+    margin-right: 12px;
+    padding: 12px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
 }
