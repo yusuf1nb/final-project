@@ -468,3 +468,16 @@ height: 36px;
 .footer__info--para{
     color: white;
 }
+
+.footer__contact--img{
+    background-color: ;
+    border-radius: 60%;
+    width: 24px;
+    height: 24px;
+}
+
+.footer__contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
